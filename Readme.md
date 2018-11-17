@@ -2,13 +2,19 @@
 ### Student at The High School of Telecommunications Arts and Technology
 
 **Grade** : *11*
-
+-
 **email**: kashifn1654@hstat.org 
+-
 
 Bio:
 
 
+-  On track team for 3 years
+-  Interned at Pathfinders
+-  
+
 School Schedule:
+-
 
 PD 1:Algebra 2
 
