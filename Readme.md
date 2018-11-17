@@ -11,7 +11,7 @@ Bio:
 
 -  On track team for 3 years
 -  Interned at Pathfinders
--  
+
 
 School Schedule:
 -
